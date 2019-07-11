@@ -2,7 +2,7 @@
 Share the joy of APis with your office document friends
 
 **Research**
-- For Python and R the mudulues/library is docx and officer (or ReoprteRs) respectively.
+- For Python and R the modules/library is docx and officer (or ReporteRs) respectively.
 - Just add an API source data and have some fun.
 
 **R**

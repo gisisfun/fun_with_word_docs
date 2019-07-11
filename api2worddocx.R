@@ -5,7 +5,7 @@ library(magrittr)
 library(httr)
 library(rjson)
 
-full_api_url <- 'https://api.openweathermap.org/data/2.5/weather?q=Canberra,AUS&mode=json&units=metric&APPID=b4de697cb8f11a4c7005fa1e84f7a2d2'
+full_api_url <- 'https://api.openweathermap.org/data/2.5/weather?q=Canberra,AUS&mode=json&units=metric&APPID=baa'
 
 getdata <- GET(url=full_api_url)
 

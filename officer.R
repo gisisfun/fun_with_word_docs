@@ -2,7 +2,7 @@
   library(magrittr)
   library(png)
   my_png <- "Cat-PNG-Image.png"
-  my_doc <- read_docx() 
+  my_doc <- read_docx('template.docx') 
   styles_info(my_doc)
   my_doc <- my_doc %>%
     body_add_img(src = "Cat-PNG-Image.png", width = 5, height = 2, style = "centered") %>% 

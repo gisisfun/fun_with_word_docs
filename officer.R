@@ -1,6 +1,6 @@
   library(officer)
   library(magrittr)
-  library(png)
+ 
   my_png <- "Cat-PNG-Image.png"
   my_doc <- read_docx('template.docx') 
   styles_info(my_doc)

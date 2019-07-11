@@ -6,4 +6,4 @@ Share the joy of APis with your office document friends
 - Just add an API source data and have some fun.
 
 **R**
-officer is good but WordR which extends officer might handle header and footer content
+officer is good but needs starting document with boilerplate header and footer content

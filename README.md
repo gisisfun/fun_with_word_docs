@@ -7,3 +7,6 @@ Share the joy of APis with your office document friends
 
 **R**
 The R library *officer* is good but needs starting document with templated header and footer content.
+
+**Next Steps**
+- Code an existing paper form to JSON Format.

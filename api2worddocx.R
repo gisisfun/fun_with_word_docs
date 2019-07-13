@@ -3,7 +3,7 @@ library(officer)
 library(magrittr)
 #api bits
 library(httr)
-library(rjson)
+library(jsonlite)
 
 full_api_url <- 'https://api.openweathermap.org/data/2.5/weather?q=Canberra,AUS&mode=json&units=metric&APPID=baa'
 
